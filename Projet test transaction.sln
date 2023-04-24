@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Projet test transaction", "Projet test transaction\Projet test transaction.dtproj", "{C60C35A8-3176-4F58-9A05-C09DFB52BA78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C60C35A8-3176-4F58-9A05-C09DFB52BA78}.Development|Default.ActiveCfg = Development
+		{C60C35A8-3176-4F58-9A05-C09DFB52BA78}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F3C096A-9722-4B5C-A83B-DE587E7827F6}
+	EndGlobalSection
+EndGlobal
